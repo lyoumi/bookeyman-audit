@@ -1,0 +1,11 @@
+spring:
+    rsocket:
+        server:
+            port: 7000
+    data:
+        mongodb:
+            database: audit
+            host: localhost
+            port: 27017
+            username: admin
+            password: admin
